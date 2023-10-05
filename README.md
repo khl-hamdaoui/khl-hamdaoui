@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khl-hamdaoui
+- 👋 Hi, I’m @khaled-hamdaoui
 - 👀 I’m interested in data science, machine learning, and geotechnical engineering.
 - 🌱 I’m currently learning and pursuing a Doctorate in Civil Engineering with a research focus on applying artificial intelligence to predict the properties of clay soils.
 - 💞️ I’m looking to collaborate on data science projects and engineering research initiatives.
